@@ -105,6 +105,6 @@ def interactive_menu():
 
 # Run the interactive menu
 print('                                      ')
-print("Welcome to the ordering system!")
+print("Welcome to the Order Management system!")
 
 interactive_menu()
